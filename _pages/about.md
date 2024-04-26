@@ -22,13 +22,13 @@ redirect_from:
 
 I received a B.A. degree in Journalism from Shandong University, Jinan, China, in 2020 and a  M.A. degree in Journalism and Communication from Xiamen Univerisity, Xiamen, Chian, in 2023. I am currently working toward an PhD. degree in Communication at the School of Journalism and Communication, Renmin University of China, Beijing, China. 
 
--My research interests include
+- My research interests include
 
--Science Communication
--Public Administration and Communication
--Urban Communication
+- Science Communication
+- Public Administration and Communication
+- Urban Communication
 
--As the first or corresponding author on three CSSCI papers and one SSCI article, I have published my work. Details are provided below.
+- As the first or corresponding author on three CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 A paper is accepted by Online Information Review. (SSCI)
