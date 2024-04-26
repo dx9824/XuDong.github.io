@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/about-me"
+    url: ""
 
   - title: "News"
-    url: "/-news"
+    url: "# 🔥 News"
 
   - title: "Publications"
     url: "/-publications"
