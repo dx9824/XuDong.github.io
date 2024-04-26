@@ -20,7 +20,6 @@ redirect_from:
 
 # 🧍‍♂️ Biography
 
-🧍‍♂️ Biography
 I received a B.A. degree in Journalism from Shandong University, Jinan, China, in 2020 and a  M.A. degree in Journalism and Communication from Xiamen Univerisity, Xiamen, Chian, in 2023. I am currently working toward an PhD. degree in Communication at the School of Journalism and Communication, Renmin University of China, Beijing, China. 
 
 My research interests include
