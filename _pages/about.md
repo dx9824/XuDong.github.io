@@ -17,43 +17,52 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes  science communication, public administration and communication. I have published 1 SSCI paper at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# 🧍‍♂️ Biography
 
+🧍‍♂️ Biography
+I received a B.A. degree in Journalism from Shandong University, Jinan, China, in 2020 and a  M.A. degree in Journalism and Communication from Xiamen Univerisity, Xiamen, Chian, in 2023. I am currently working toward an PhD. degree in Communication at the School of Journalism and Communication, Renmin University of China, Beijing, China. 
+
+My research interests include
+
+Science Communication
+Public Administration and Communication
+Urban Communication
+
+As the first or corresponding author on three CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.02*: &nbsp;🎉🎉 A paper is accepted by Online Information Review. (SSCI)
+- *2024.01*: &nbsp;🎉🎉 Two papers are accepted by the 2024 ICA Conference. 
+
 
 # 📝 Publications 
+	Sun, M. F., **Dong, X.*** (Accepted). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*. (SSCI Q2) DOI: 10.1108/OIR-09-2023-0505
+	**Dong, X.**, Luo, Y. L. (2024). Research on the Impact of Urban-rural Gap and Media Use on Trust in Scientific Research Institutions. *Studies in Science of Science*.(CSSCI) https://doi.org/10.16192/j.cnki.1003-2053.20240312.001。
+	**Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4).(CSSCI)
+	Gong, H., **Dong, X.*** (Accepted). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.（CSSCI）
+	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
+	**Dong, X.**, Sun, M. F. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
+	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the Annual Conference of Computational Communication.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+# 💻 Proiects and Funding
+- *2022.06 - 2023.06*, "Case study project for graduate in Xiamen University" (PI)
+- *2023.09 - *,  "National Social Science Foundation of China, Grant No. 23BXW032" 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Outstanding graduates, Xiamen Univerisity.
+- *2023.06* Yuanshen Scholarship, Xiamen Univerisity.
+- *2022.09* Merit student, Xiamen Univerisity.
+- *2020.06* Outstanding graduates, Shandong Univerisity.
+- *2018.10* Merit student, Shandong Univerisity.
 
 # 📖 Educations
 - *2016.09 - 2020.06*, School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 - *2020.09 - 2023.06*, School of Journalism and Communication, Xiamen University, Xiamen, Fujian Province, China.
 - *2023.09 - now*, School of Journalism and Communication, Renmin University of China, Beijing, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
