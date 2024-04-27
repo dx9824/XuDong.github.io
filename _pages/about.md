@@ -40,12 +40,12 @@ As the first or corresponding author on three CSSCI papers and one SSCI article,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Dialogue capability” at the grassroot</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Constructing “dialogue capability” at the grassroot: Research on relationship of diverse subject agenda attribute networks in natural disasters](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Research on relationship of diverse subject agenda attribute networks in natural disasters](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Xu Dong**, He Gong (2024)
 
 
-[**CSSCI**]</span></strong> **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
+[**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
 </div>
 </div>
 
