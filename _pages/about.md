@@ -49,24 +49,47 @@ As the first or corresponding author on three CSSCI papers and one SSCI article,
 </div>
 </div>
 
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Factors Influencing correction of health misinformation: The moderating role of active social media use](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 Mingfei Sun, **Xu Dong*** (2024)
-
+  
 [**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*. 
 </div>
 </div>
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-(SSCI Q2) DOI: 10.1108/OIR-09-2023-0505
--	**Dong, X.**, Luo, Y. L. (2024). Research on the Impact of Urban-rural Gap and Media Use on Trust in Scientific Research Institutions. *Studies in Science of Science*.(CSSCI) https://doi.org/10.16192/j.cnki.1003-2053.20240312.001.（**董旭**，罗逸琳（2024）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》。https://doi.org/10.16192/j.cnki.1003-2053.20240312.001）
+[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
--	Gong, H., **Dong, X.*** (Accepted). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.（CSSCI）（宫贺，**董旭**（待刊）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》）
+**Xu Dong**, Yilin Luo (2024)
+
+[**CSSCI**] **董旭**，罗逸琳（2024）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》
+-	**Dong, X.**, Luo, Y. L. (2024). Research on the Impact of Urban-rural Gap and Media Use on Trust in Scientific Research Institutions. *Studies in Science of Science*.
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Dialogic engagement between the government and the public: The use and effects of hashtags in local government microblogs in natural disaster contexts](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+
+He Gong, **Xu Dong*** (Accepted)
+
+[**CSSCI**] 宫贺，**董旭**（待刊）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》
+-	Gong, H., **Dong, X.*** (Accepted). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
+</div>
+</div>
+
+
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
 -	**Dong, X.**, Sun, M. F. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
 -	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the Annual Conference of Computational Communication.
