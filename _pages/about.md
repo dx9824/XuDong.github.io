@@ -50,7 +50,6 @@ As the first or corresponding author on three CSSCI papers and one SSCI article,
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Factors Influencing correction of health misinformation: The moderating role of active social media use](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -60,7 +59,6 @@ Mingfei Sun, **Xu Dong*** (2024)
 [**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*. 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
@@ -76,7 +74,6 @@ Mingfei Sun, **Xu Dong*** (2024)
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -89,7 +86,6 @@ He Gong, **Xu Dong*** (Accepted)
 
 </div>
 </div>
-
 
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
 -	**Dong, X.**, Sun, M. F. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
