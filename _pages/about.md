@@ -52,7 +52,7 @@ As the first or corresponding author on three CSSCI papers and one SSCI article,
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Factors Influencing correction of health misinformation: The moderating role of active social media use](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Factors Influencing correction of health misinformation: The moderating role of active social media use](https://doi.org/10.1108/OIR-09-2023-0505)
 
 Mingfei Sun, **Xu Dong*** (2024)
   
@@ -64,7 +64,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.1108/OIR-09-2023-0505)
+[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
 **Xu Dong**, Yilin Luo (2024)
 
