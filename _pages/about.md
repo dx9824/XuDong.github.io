@@ -56,7 +56,7 @@ As the first or corresponding author on three CSSCI papers and one SSCI article,
 
 Mingfei Sun, **Xu Dong*** (2024)
   
-[**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*. 
+[**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*. https://doi.org/10.1108/OIR-09-2023-0505
 </div>
 </div>
 
@@ -64,7 +64,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.1108/OIR-09-2023-0505)
 
 **Xu Dong**, Yilin Luo (2024)
 
