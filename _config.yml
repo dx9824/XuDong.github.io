@@ -15,7 +15,7 @@ repository               : "Xu Dong/acad-homepage.github.io"
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  #get google_site_verification from https://scholar.google.com/citations?hl=en&user=KKnaHy4AAAAJ
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=KKnaHy4AAAAJ"
   email            : "dongxu98@ruc.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Xu-Dong-60"
   uri              :
