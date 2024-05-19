@@ -31,8 +31,11 @@ My research interests include
 As the first or corresponding author on three CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 A paper is accepted by Online Information Review. (SSCI)
-- *2024.01*: &nbsp;🎉🎉 Two papers are accepted by the 2024 ICA Conference. 
+- *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
+- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by AEJMC. (Top conference)
+- *2024.04*: &nbsp;🎉🎉 A paper is published by Shanghai Journalism(新闻记者）. (CSSCI)
+- *2024.03*: &nbsp;🎉🎉 A papers is published by Studies in Science of Science(科学学研究）. (CSSCI)
+- *2024.01*: &nbsp;🎉🎉 Two papers are accepted by the 2024 ICA Conference. (Top conference)
 
 
 # 📝 Publications 
@@ -87,6 +90,7 @@ He Gong, **Xu Dong*** (Accepted)
 </div>
 </div>
 
+-	**Dong, X.**, Huang, M. H.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
 -	**Dong, X.**, Sun, M. F. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
 -	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the Annual Conference of Computational Communication.
