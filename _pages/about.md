@@ -31,11 +31,13 @@ My research interests include
 As the first or corresponding author on three CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by AEJMC. (Top conference)
 - *2024.04*: &nbsp;🎉🎉 A paper is published by Shanghai Journalism(新闻记者）. (CSSCI)
 - *2024.03*: &nbsp;🎉🎉 A papers is published by Studies in Science of Science(科学学研究）. (CSSCI)
 - *2024.01*: &nbsp;🎉🎉 Two papers are accepted by the 2024 ICA Conference. (Top conference)
+- *2023.12*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
 
 
 # 📝 Publications 
@@ -89,6 +91,21 @@ He Gong, **Xu Dong*** (Accepted)
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+
+Huifeng Zhang, **Xu Dong*** (Accepted)
+
+[**CSSCI**] 张辉锋，**董旭**（待刊）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
+-	Zhang, H., **Dong, X.*** (Accepted). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame. *Journalism Research*.
+
+</div>
+</div>
+
 
 -	**Dong, X.**, Huang, M. H.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
