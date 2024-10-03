@@ -28,7 +28,7 @@ My research interests include
 - Public Administration and Communication
 - Urban Communication
 
-As the first or corresponding author on three CSSCI papers and one SSCI article, I have published my work. Details are provided below.
+As the first or corresponding author on four CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
@@ -71,7 +71,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 
 [Dialogic engagement between the government and the public: The use and effects of hashtags in local government microblogs in natural disaster contexts](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
-He Gong, **Xu Dong*** (Accepted)
+He Gong, **Xu Dong*** (2024)
 
 [**CSSCI**] 宫贺，**董旭**（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
 -	Gong, H., **Dong, X.*** (Accepted). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
