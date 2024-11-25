@@ -26,7 +26,7 @@ My research interests include
 
 - Science Communication
 - Public Administration and Communication
-- Urban Communication
+- Computational Communication
 
 As the first or corresponding author on four CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
