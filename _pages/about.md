@@ -61,7 +61,7 @@ As the first or corresponding author on four CSSCI papers and one SSCI article, 
 
 Mingfei Sun, **Xu Dong*** (2024)
   
-[**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*. https://doi.org/10.1108/OIR-09-2023-0505
+[**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
 </div>
 </div>
 
