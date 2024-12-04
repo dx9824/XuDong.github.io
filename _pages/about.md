@@ -69,11 +69,11 @@ Mingfei Sun, **Xu Dong*** (2024)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Dialogic engagement between the government and the public: The use and effects of hashtags in local government microblogs in natural disaster contexts](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[Dialogic engagement between the government and the public: The use and effects of hashtags in local government microblogs in natural disaster contexts](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 He Gong, **Xu Dong*** (2024)
 
-[**CSSCI**] 宫贺，**董旭**（2024）。“施救”与“求救”的对话式卷入：属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
+[**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
 -	Gong, H., **Dong, X.*** (Accepted). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
 
 </div>
@@ -110,7 +110,8 @@ Huifeng Zhang, **Xu Dong*** (Accepted)
 -	**Dong, X.**, Huang, M. H.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
 -	**Dong, X.**, Sun, M. F. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
--	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the Annual Conference of Computational Communication.
+-	**Dong, X.**, He, X. L. (2024). Appealing to Morality? The Impact of Moral Foundations on the Dissemination Effectiveness of Rumor-Debunking Information on Social Media, paper presented at the 2024 Annual Conference of Chinese Computational Communication Research Association.**The Best Paper**
+-	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the 2020 Annual Conference of Annual Conference of Chinese Computational Communication Research Association.
 
 
 # 💻 Proiects and Funding
@@ -119,6 +120,8 @@ Huifeng Zhang, **Xu Dong*** (Accepted)
 - *2023.09-*, "Journalism and Marxism Research Center, Renmin University of China (No.MXG202308)"(RA)
 
 # 🎖 Honors and Awards
+- *2024.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
+- *2024.10* Academic Excellence Scholarship (First Class), Renmin University of China.
 - *2023.06* Outstanding graduates, Xiamen Univerisity.
 - *2023.06* Yuanshen Scholarship, Xiamen Univerisity.
 - *2022.09* Merit student, Xiamen Univerisity.
