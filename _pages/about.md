@@ -74,7 +74,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 He Gong, **Xu Dong*** (2024)
 
 [**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
--	Gong, H., **Dong, X.*** (Accepted). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
+-	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
 
 </div>
 </div>
