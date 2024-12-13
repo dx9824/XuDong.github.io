@@ -115,9 +115,11 @@ Huifeng Zhang, **Xu Dong*** (Accepted)
 
 
 # 💻 Proiects and Funding
+- *2024.12 -*, "The Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China" (PI)
 - *2022.06 - 2023.06*, "Case study project for graduate in Xiamen University" (PI)
-- *2023.09 -*,  "National Social Science Foundation of China (No. 23BXW032)" (RA)
-- *2023.09-*, "Journalism and Marxism Research Center, Renmin University of China (No.MXG202308)"(RA)
+- *2024.12 -*， "National Social Science Foundation of China Major Program" (RA)
+- *2023.09 -*,  "National Social Science Foundation of China General Program (No. 23BXW032)" (RA)
+- *2023.09 -*, "Journalism and Marxism Research Center, Renmin University of China (No.MXG202308)"(RA)
 
 # 🎖 Honors and Awards
 - *2024.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
