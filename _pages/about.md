@@ -105,7 +105,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
