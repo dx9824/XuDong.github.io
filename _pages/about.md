@@ -92,7 +92,7 @@ He Gong, **Xu Dong*** (2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized?</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
@@ -113,8 +113,7 @@ Huifeng Zhang, **Xu Dong*** (Accepted)
 [**CSSCI**] 张辉锋，**董旭**（待刊）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
 -	Zhang, H., **Dong, X.*** (Accepted). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame. *Journalism Research*.
 
-</div>
-</div>
+
 
 
 -	**Dong, X.**, Huang, M. H.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
