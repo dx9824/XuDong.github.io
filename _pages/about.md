@@ -73,7 +73,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 
 He Gong, **Xu Dong*** (2024)
 
-[**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果（2011-2021）。《新闻大学》，（10）。
+[**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10）。
 -	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
 
 </div>
@@ -83,7 +83,7 @@ He Gong, **Xu Dong*** (2024)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 **Xu Dong**, Yilin Luo (2024)
 
@@ -95,6 +95,19 @@ He Gong, **Xu Dong*** (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
+He Gong, Danfeng Ma, **Xu Dong** * (2024)
+
+[**CSSCI**] 宫贺，马丹凤，**董旭**（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11）。
+-	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 [Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
