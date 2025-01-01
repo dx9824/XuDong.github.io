@@ -31,6 +31,7 @@ My research interests include
 As the first or corresponding author on four CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 A paper is published by 国际新闻界. (CSSCI)
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by AEJMC. (Top conference)
@@ -68,7 +69,6 @@ Mingfei Sun, **Xu Dong*** (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Dialogic engagement between the government and the public: The use and effects of hashtags in local government microblogs in natural disaster contexts](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 He Gong, **Xu Dong*** (2024)
@@ -82,7 +82,6 @@ He Gong, **Xu Dong*** (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 **Xu Dong**, Yilin Luo (2024)
@@ -93,8 +92,9 @@ He Gong, **Xu Dong*** (2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/交互效应图.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+[The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 
 He Gong, Danfeng Ma, **Xu Dong** * (2024)
@@ -104,9 +104,6 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
 [Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
