@@ -31,6 +31,7 @@ My research interests include
 As the first or corresponding author on five CSSCI papers and one SSCI article, I have published my work. Details are provided below.
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
 - *2024.12*: &nbsp;🎉🎉 A paper is published by 国际新闻界. (CSSCI)
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
@@ -43,7 +44,7 @@ As the first or corresponding author on five CSSCI papers and one SSCI article, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction](https://doi.org/10.1089/cyber.2024.0468)
