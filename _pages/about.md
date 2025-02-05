@@ -51,7 +51,7 @@ As the first or corresponding author on five CSSCI papers and one SSCI article, 
 
 **Xu Dong**, Jun Xie, He Gong (2025)
 
-[**SSCI Q1**] **Xu Dong**，Jun Xie, He Gong (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction.Cyberpsychology, Behavior, and Social Networking.
+[**SSCI Q1**] **Xu Dong**，Jun Xie, He Gong (2025)
 - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*.
 </div>
 </div>
@@ -76,7 +76,7 @@ As the first or corresponding author on five CSSCI papers and one SSCI article, 
 
 Mingfei Sun, **Xu Dong*** (2024)
   
-[**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
+[**SSCI Q1**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
 </div>
 </div>
 
