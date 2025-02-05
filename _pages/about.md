@@ -51,8 +51,7 @@ As the first or corresponding author on five CSSCI papers and one SSCI article, 
 
 **Xu Dong**, Jun Xie, He Gong (2025)
 
-[**SSCI Q1**] **Xu Dong**，Jun Xie, He Gong (2025)
-- **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*.
+[**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*.
 </div>
 </div>
 
