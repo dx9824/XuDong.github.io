@@ -32,14 +32,14 @@ As the first or corresponding author on 5 CSSCI papers and 2 SSCI articles, I ha
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
-- *2024.12*: &nbsp;🎉🎉 A paper is published by 国际新闻界. (CSSCI)
-- *2024.09*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
+- *2024.12*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Journalism and Communication(国际新闻界). (CSSCI)
+- *2024.09*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by AEJMC. (Top conference)
-- *2024.04*: &nbsp;🎉🎉 A paper is published by Shanghai Journalism(新闻记者）. (CSSCI)
-- *2024.03*: &nbsp;🎉🎉 A papers is published by Studies in Science of Science(科学学研究）. (CSSCI)
+- *2024.04*: &nbsp;🎉🎉 A paper is published by Shanghai Journalism (新闻记者）. (CSSCI)
+- *2024.03*: &nbsp;🎉🎉 A papers is published by Studies in Science of Science (科学学研究）. (CSSCI)
 - *2024.01*: &nbsp;🎉🎉 Two papers are accepted by the 2024 ICA Conference. (Top conference)
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by 新闻大学. (CSSCI)
+- *2023.12*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
 
 
 # 📝 Publications 
