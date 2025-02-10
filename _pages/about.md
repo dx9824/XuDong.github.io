@@ -28,7 +28,7 @@ My research interests include
 - Public Administration and Communication
 - Computational Communication
 
-As the first or corresponding author on five CSSCI papers and one SSCI article, I have published my work. Details are provided below.
+As the first or corresponding author on 5 CSSCI papers and 2 SSCI articles, I have published my work. Details are provided below.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
