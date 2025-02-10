@@ -25,7 +25,7 @@ I received a B.A. degree in Journalism from Shandong University, Jinan, China, i
 My research interests include
 
 - Science Communication
-- Public Administration and Communication
+- Government public relations
 - Computational Communication
 
 As the first or corresponding author on 5 CSSCI papers and 2 SSCI articles, I have published my work. Details are provided below.
