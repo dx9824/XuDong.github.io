@@ -1,20 +1,20 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/Biography.html"
+    url: "/Biography"
 
   - title: "News"
-    url: "/News.html"
+    url: "/News"
 
   - title: "Publications"
-    url: "/publications.html"
+    url: "/Publications"
 
   - title: "Honors and Awards"
-    url: "/honors-and-awards.html"
+    url: "/Honors and Awards"
 
   - title: "Educations"
-    url: "/educations.html"
+    url: "/Educations"
 
-  - title: "Proiects and Funding"
-    url: "/Proiects and Funding.html"
+  - title: "Projects and Funding"
+    url: "/Projects and Funding"
 
