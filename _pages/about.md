@@ -28,7 +28,7 @@ My research interests include
 - Government public relations
 - Computational Communication
 
-As the first or corresponding author on 5 CSSCI papers and 2 SSCI articles, I have published my work. Details are provided below.
+As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I have published my works. Details are provided below.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
@@ -131,13 +131,14 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 </div>
 
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effect of Multiple Distance Factors on the Overseas Box Office</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024)](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
 Huifeng Zhang, **Xu Dong*** (2025)
 
 [**CSSCI**] 张辉锋，**董旭**（2025）。多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
--	Zhang, H., **Dong, X.*** (Accepted). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024). *Journalism Research*.
+-	Zhang, H., **Dong, X.*** (2025). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024). *Journalism Research*.
 
 
 
