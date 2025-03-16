@@ -1,20 +1,20 @@
 # main links links
 main:
   - title: "About Me"
-    url: "{{ site.baseurl }}/#-about-me"
+    url: "/XuDong.github.io/#-about-me"
 
   - title: "News"
-    url: "{{ site.baseurl }}/#-news"
+    url: "/XuDong.github.io/#-news"
 
   - title: "Publications"
-    url: "{{ site.baseurl }}/#-publications"
+    url: "/XuDong.github.io/#-publications"
 
   - title: "Honors and Awards"
-    url: "{{ site.baseurl }}/#-honors-and-awards"
+    url: "/XuDong.github.io/#-honors-and-awards"
 
   - title: "Educations"
-    url: "{{ site.baseurl }}/#-educations"
+    url: "/XuDong.github.io/#-educations"
 
   - title: "Projects and Funding"
-    url: "{{ site.baseurl }}/#-proiects-and-funding"
+    url: "/XuDong.github.io/#-proiects-and-funding"
 
