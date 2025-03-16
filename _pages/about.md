@@ -52,7 +52,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 
 **Xu Dong**, Jun Xie, He Gong (2025)
 
-[**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*.
+[**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
 </div>
 </div>
 
@@ -64,7 +64,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 
 **Xu Dong**, He Gong (2024)
 
-[**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4）。
+[**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4），3-17。
 - **Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4).
 </div>
 </div>
@@ -76,7 +76,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 
 **Xu Dong**, Yilin Luo (2024)
 
-[**CSSCI**] **董旭**，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》。
+[**CSSCI**] **董旭**，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》，（3），642-650+670。
 -	**Dong, X.**, Luo, Y. (2025). Research on the impact of urban-rural gap and media use on trust in scientific research institutions. *Studies in Science of Science*.
 </div>
 </div>
@@ -88,7 +88,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 
 **Xu Dong**, Xinlu He (2024)
 
-[**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》。
+[**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），16-34。
 -	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*.
 </div>
 </div>
@@ -111,7 +111,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 
 He Gong, **Xu Dong*** (2024)
 
-[**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10）。
+[**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10），59-73。
 -	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
 
 </div>
@@ -125,7 +125,7 @@ He Gong, **Xu Dong*** (2024)
 
 He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
-[**CSSCI**] 宫贺，马丹凤，**董旭**（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11）。
+[**CSSCI**] 宫贺，马丹凤，**董旭**（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11），114-136。
 -	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*.
 </div>
 </div>
@@ -137,7 +137,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 Huifeng Zhang, **Xu Dong*** (2025)
 
-[**CSSCI**] 张辉锋，**董旭**（2025）。多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
+[**CSSCI**] 张辉锋，**董旭**（2025）。多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》，（3）。
 -	Zhang, H., **Dong, X.*** (2025). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024). *Journalism Research*.
 </div>
 </div>
@@ -151,7 +151,7 @@ Huifeng Zhang, **Xu Dong*** (2025)
 -	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the 2020 Annual Conference of Annual Conference of Chinese Computational Communication Research Association.
 
 
-# 💻 Proiects and Funding
+# 💻 Projects and Funding
 - *2024.12 -*, "The Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China" (PI)
 - *2022.06 - 2023.06*, "Case study project for graduate in Xiamen University" (PI)
 - *2024.12 -*， "National Social Science Foundation of China Major Program" (RA)
