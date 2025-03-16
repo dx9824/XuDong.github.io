@@ -9,6 +9,8 @@
 title                    : "Xu Dong"
 description              : "Doctoral Student"
 repository               : "Xu Dong/acad-homepage.github.io"
+baseurl: "/XuDong.github.io"
+url: "https://dx9824.github.io"
 #google_scholar_stats_use_cdn : true
 
 # google analytics
