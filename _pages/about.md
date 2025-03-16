@@ -70,6 +70,30 @@ As the first or corresponding author on 5 CSSCI papers and 2 SSCI articles, I ha
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
+
+**Xu Dong**, Yilin Luo (2024)
+
+[**CSSCI**] **董旭**，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》。
+-	**Dong, X.**, Luo, Y. (2025). Research on the impact of urban-rural gap and media use on trust in scientific research institutions. *Studies in Science of Science*.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Leveraging the effect of moral foundations on rumor-debunking</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
+
+**Xu Dong**, Xinlu He (2024)
+
+[**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》。
+-	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Factors Influencing correction of health misinformation: The moderating role of active social media use](https://doi.org/10.1108/OIR-09-2023-0505)
@@ -94,18 +118,6 @@ He Gong, **Xu Dong*** (2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
-
-**Xu Dong**, Yilin Luo (2024)
-
-[**CSSCI**] **董旭**，罗逸琳（2024）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》。
--	**Dong, X.**, Luo, Y. L. (2024). Research on the impact of urban-rural gap and media use on trust in scientific research institutions. *Studies in Science of Science*.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized?</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
@@ -120,20 +132,20 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 
 
-[Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024)](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
-Huifeng Zhang, **Xu Dong*** (Accepted)
+Huifeng Zhang, **Xu Dong*** (2025)
 
-[**CSSCI**] 张辉锋，**董旭**（待刊）。CAGE框架下多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
--	Zhang, H., **Dong, X.*** (Accepted). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2023) Based on CAGE Frame. *Journalism Research*.
-
-
+[**CSSCI**] 张辉锋，**董旭**（2025）。多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
+-	Zhang, H., **Dong, X.*** (Accepted). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024). *Journalism Research*.
 
 
--	**Dong, X.**, Huang, M. H.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
+
+
+-	**Dong, X.**, Huang, M.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
--	**Dong, X.**, Sun, M. F. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
--	**Dong, X.**, He, X. L. (2024). Appealing to Morality? The Impact of Moral Foundations on the Dissemination Effectiveness of Rumor-Debunking Information on Social Media, paper presented at the 2024 Annual Conference of Chinese Computational Communication Research Association.**The Best Paper**
+-	**Dong, X.**, Sun, M. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
+-	**Dong, X.**, He, X. (2024). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research, paper presented at the 2024 Annual Conference of Chinese Computational Communication Research Association.**The Best Paper**
 -	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the 2020 Annual Conference of Annual Conference of Chinese Computational Communication Research Association.
 
 
