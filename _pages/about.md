@@ -82,7 +82,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Leveraging the effect of moral foundations on rumor-debunking</div><img src='images/图片1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Leveraging the effect of moral foundations on rumor-debunking</div><img src='images/图2 交互效应图.tiff' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
