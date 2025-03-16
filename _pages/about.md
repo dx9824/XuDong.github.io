@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-## <span id="biography">🧍‍♂️ Biography</span>
+# 🧍‍♂️ Biography
 I received a B.A. degree in Journalism from Shandong University, Jinan, China, in 2020 and a  M.A. degree in Journalism and Communication from Xiamen Univerisity, Xiamen, China, in 2023. I am currently working toward an PhD. degree in Communication at the School of Journalism and Communication, Renmin University of China, Beijing, China. 
 
 My research interests include
@@ -29,7 +29,7 @@ My research interests include
 
 As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I have published my works. Details are provided below.
 
-## <span id="news">🔥 News</span>
+#🔥 News
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
 - *2024.12*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Journalism and Communication(国际新闻界). (CSSCI)
@@ -42,7 +42,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 - *2023.12*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
 
 
-## <span id="publications">📝 Publications</span>
+# 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -149,14 +149,14 @@ Huifeng Zhang, **Xu Dong*** (2025)
 -	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the 2020 Annual Conference of Annual Conference of Chinese Computational Communication Research Association.
 
 
-## <span id="projects">💻 Projects and Funding</span>
+# 💻 Projects and Funding
 - *2024.12 -*, "The Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China" (PI)
 - *2022.06 - 2023.06*, "Case study project for graduate in Xiamen University" (PI)
 - *2024.12 -*， "National Social Science Foundation of China Major Program" (RA)
 - *2023.09 -*,  "National Social Science Foundation of China General Program (No. 23BXW032)" (RA)
 - *2023.09 -*, "Journalism and Marxism Research Center, Renmin University of China (No.MXG202308)"(RA)
 
-## <span id="honors">🎖 Honors and Awards</span>
+# 🎖 Honors and Awards
 <span id="honors"></span>
 - *2025.02* Top Student Paper, 2025ICA PR division.
 - *2024.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
@@ -167,7 +167,7 @@ Huifeng Zhang, **Xu Dong*** (2025)
 - *2020.06* Outstanding graduates, Shandong Univerisity.
 - *2018.10* Merit student, Shandong Univerisity.
 
-## <span id="educations"> 📖 Educations</span>
+# 📖 Educations
 <span id="educations"></span>
 - *2016.09 - 2020.06*, School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 - *2020.09 - 2023.06*, School of Journalism and Communication, Xiamen University, Xiamen, Fujian Province, China.
