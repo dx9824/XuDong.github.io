@@ -139,7 +139,8 @@ Huifeng Zhang, **Xu Dong*** (2025)
 
 [**CSSCI**] 张辉锋，**董旭**（2025）。多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》。
 -	Zhang, H., **Dong, X.*** (2025). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024). *Journalism Research*.
-
+</div>
+</div>
 
 
 
