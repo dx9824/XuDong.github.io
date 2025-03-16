@@ -29,7 +29,7 @@ My research interests include
 
 As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I have published my works. Details are provided below.
 
-#🔥 News
+# 🔥 News
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
 - *2024.12*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Journalism and Communication(国际新闻界). (CSSCI)
