@@ -82,7 +82,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Leveraging the effect of moral foundations on rumor-debunking</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
+[Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 
 **Xu Dong**, Xinlu He (2024)
 
@@ -135,8 +135,8 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 Huifeng Zhang, **Xu Dong*** (2025)
 
-[**CSSCI**] 张辉锋，**董旭**（2025）。多重距离因素对中国动画电影海外票房（1949-2024）的影响研究。《新闻大学》，（3）。
--	Zhang, H., **Dong, X.*** (2025). Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024). *Journalism Research*.
+[**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3）。
+-	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*.
 </div>
 </div>
 
