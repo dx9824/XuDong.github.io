@@ -131,7 +131,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effect of Multiple Distance Factors on the Overseas Box Office</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Research on the Effect of Multiple Distance Factors on the Overseas Box Office of Chinese Animated Films (2000-2024)](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024)](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
 
 Huifeng Zhang, **Xu Dong*** (2025)
 
