@@ -86,7 +86,7 @@ As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I ha
 
 **Xu Dong**, Xinlu He (2024)
 
-[**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），16-34。
+[**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
 -	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*.
 </div>
 </div>
