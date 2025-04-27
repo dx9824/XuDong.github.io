@@ -131,9 +131,9 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effect of Multiple Distance Factors on the Overseas Box Office</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024)](https://doi.org/10.16192/j.cnki.1003-2053.20240312.001)
+[Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024)](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
-Huifeng Zhang, **Xu Dong*** (2025)
+Huifeng Zhang, **Xu Dong** (2025)
 
 [**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3）。
 -	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*.
