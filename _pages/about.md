@@ -141,7 +141,7 @@ Huifeng Zhang, **Xu Dong** (2025)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/Figure2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
