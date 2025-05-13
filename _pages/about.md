@@ -27,7 +27,7 @@ My research interests include
 - Government public relations
 - Computational Communication
 
-As the first or corresponding author on 6 CSSCI papers and 2 SSCI articles, I have published my works. Details are provided below.
+As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I have published my works. Details are provided below.
 
 # 🔥 News
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
