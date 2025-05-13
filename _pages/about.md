@@ -141,6 +141,20 @@ Huifeng Zhang, **Xu Dong** (2025)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
+
+Miaohong Huang, **Xu Dong** , He Gong(2025)
+
+[**SSCI**] •Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*.
+
+</div>
+</div>
+
+
+
+
 
 -	**Dong, X.**, Huang, M.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
