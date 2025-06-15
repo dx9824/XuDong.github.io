@@ -29,6 +29,8 @@ My research interests include
 
 As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I have published my works. Details are provided below.
 
+In my spare time, I read, take photograph, work out and watch movies.
+
 # 📖 Educations
 <span id="educations"></span>
 - *2025.08 - 2026.07*, <a href="https://www.nuc.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> Department of Communication and New Media, National University of Singapore, Singapore.
