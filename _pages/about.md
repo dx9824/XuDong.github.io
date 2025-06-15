@@ -49,9 +49,8 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction](https://doi.org/10.1089/cyber.2024.0468)
-
 **Xu Dong**, Jun Xie, He Gong (2025)
+[HTML](https://doi.org/10.1089/cyber.2024.0468)
 
 [**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
 </div>
@@ -61,9 +60,8 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Dialogue capability” at the grassroot</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Constructing “dialogue capability” at the grassroot: Research on relationship of diverse subject agenda attribute networks in natural disasters](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
-
 **Xu Dong**, He Gong (2024)
+[HTML](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
 
 [**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4），3-17。
 - **Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4).
@@ -73,9 +71,9 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Research on the impact of urban-rural gap and media use on trust in scientific research institutions](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 **Xu Dong**, Yilin Luo (2024)
+[HTML](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 [**CSSCI**] **董旭**，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》，（3），642-650+670。
 -	**Dong, X.**, Luo, Y. (2025). Research on the impact of urban-rural gap and media use on trust in scientific research institutions. *Studies in Science of Science*.
@@ -85,9 +83,9 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Leveraging the effect of moral foundations on rumor-debunking</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
-
+  
 **Xu Dong**, Xinlu He (2024)
+[HTML](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 
 [**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
 -	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*.
@@ -97,9 +95,9 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Factors Influencing correction of health misinformation: The moderating role of active social media use](https://doi.org/10.1108/OIR-09-2023-0505)
 
 Mingfei Sun, **Xu Dong*** (2024)
+[HTML](https://doi.org/10.1108/OIR-09-2023-0505)
   
 [**SSCI Q1**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
 </div>
@@ -108,9 +106,9 @@ Mingfei Sun, **Xu Dong*** (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Use and Effects of Hashtags</div><img src='images/4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Dialogic engagement between the government and the public: The use and effects of hashtags in local government microblogs in natural disaster contexts](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 He Gong, **Xu Dong*** (2024)
+[HTML](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 [**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10），59-73。
 -	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
@@ -121,10 +119,9 @@ He Gong, **Xu Dong*** (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Domestic Shame Should Not Be Publicized?</div><img src='images/道歉.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
-
 
 He Gong, Danfeng Ma, **Xu Dong** * (2024)
+[HTML](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007)
 
 [**CSSCI**] 宫贺，马丹凤，**董旭**（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11），114-136。
 -	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*.
@@ -134,9 +131,10 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effect of Multiple Distance Factors on the Overseas Box Office</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024)](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
 Huifeng Zhang, **Xu Dong** (2025)
+[HTML](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
+
 
 [**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3）。
 -	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*.
@@ -146,9 +144,9 @@ Huifeng Zhang, **Xu Dong** (2025)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
 Miaohong Huang, **Xu Dong** , He Gong(2025)
+[HTML](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
 [**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*.
 
