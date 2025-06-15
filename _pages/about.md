@@ -52,7 +52,29 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 **Xu Dong**, Jun Xie, He Gong (2025)
 [[HTML]](https://doi.org/10.1089/cyber.2024.0468)
 
-[**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
+[**SSCI**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mingfei Sun, **Xu Dong*** (2024)
+[[HTML]](https://doi.org/10.1108/OIR-09-2023-0505)
+  
+[**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Miaohong Huang, **Xu Dong** , He Gong(2025)
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
+
+[**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*.
+
 </div>
 </div>
 
@@ -89,17 +111,6 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 
 [**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
 -	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Health Misinformation Correction Intentions</div><img src='images/2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Mingfei Sun, **Xu Dong*** (2024)
-[[HTML]](https://doi.org/10.1108/OIR-09-2023-0505)
-  
-[**SSCI Q1**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
 </div>
 </div>
 
@@ -142,16 +153,6 @@ Huifeng Zhang, **Xu Dong** (2025)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Miaohong Huang, **Xu Dong** , He Gong(2025)
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
-
-[**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*.
-
-</div>
-</div>
 
 
 
