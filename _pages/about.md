@@ -23,24 +23,27 @@ I received a B.A. degree in Journalism from Shandong University, Jinan, China, i
 
 My research interests include
 
-- Science Communication
-- Government public relations
+- Public Communication
+- Human-machine Interaction
 - Computational Communication
 
 As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I have published my works. Details are provided below.
 
+# 📖 Educations
+<span id="educations"></span>
+- *2025.08 - 2026.07*, Department of Communication and New Media, National University of Singapore, Singapore.
+- *2023.09 - now*, School of Journalism and Communication, Renmin University of China, Beijing, China.
+- *2020.09 - 2023.06*, School of Journalism and Communication, Xiamen University, Xiamen, Fujian Province, China.
+- *2016.09 - 2020.06*, School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
+
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI)
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
 - *2024.12*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Journalism and Communication(国际新闻界). (CSSCI)
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
 - *2024.05*: &nbsp;🎉🎉 Two papers are accepted by AEJMC. (Top conference)
-- *2024.04*: &nbsp;🎉🎉 A paper is published by Shanghai Journalism (新闻记者）. (CSSCI)
-- *2024.03*: &nbsp;🎉🎉 A papers is published by Studies in Science of Science (科学学研究）. (CSSCI)
-- *2024.01*: &nbsp;🎉🎉 Two papers are accepted by the 2024 ICA Conference. (Top conference)
-- *2023.12*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
-
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
@@ -155,7 +158,7 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 
 
 
-
+-	**Dong, X.**, Fang, Y., Li, W., Sun，M., He, X.(2025). Engagement for morality? Leveraging the role of moral foundations in government-public disaster communication on Weibo in China, paper presented at the 2025 ICA.
 -	**Dong, X.**, Huang, M.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
 -	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
 -	**Dong, X.**, Sun, M. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
@@ -164,11 +167,13 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 
 
 # 💻 Projects and Funding
+- *2025.06 -*, "Project of Sichuan Network Culture Research Center" (PI)
+- *2024.06 -2025.06*, "Project of Social Governance Innovation Research Center of Sichuan Philosophy and Social Sciences Key Research Base" (PI)
 - *2024.12 -*, "The Outstanding Innovative Talents Cultivation Funded Programs of Renmin University of China" (PI)
 - *2022.06 - 2023.06*, "Case study project for graduate in Xiamen University" (PI)
 - *2024.12 -*， "National Social Science Foundation of China Major Program" (RA)
-- *2023.09 -*,  "National Social Science Foundation of China General Program (No. 23BXW032)" (RA)
-- *2023.09 -*, "Journalism and Marxism Research Center, Renmin University of China (No.MXG202308)"(RA)
+- *2023.09 -2025.04*,  "National Social Science Foundation of China General Program" (RA)
+- *2023.09 -*, "Journalism and Marxism Research Center, Renmin University of China"(RA)
 
 # 🎖 Honors and Awards
 <span id="honors"></span>
@@ -181,10 +186,6 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 - *2020.06* Outstanding graduates, Shandong Univerisity.
 - *2018.10* Merit student, Shandong Univerisity.
 
-# 📖 Educations
-<span id="educations"></span>
-- *2016.09 - 2020.06*, School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
-- *2020.09 - 2023.06*, School of Journalism and Communication, Xiamen University, Xiamen, Fujian Province, China.
-- *2023.09 - now*, School of Journalism and Communication, Renmin University of China, Beijing, China.
+
 
 
