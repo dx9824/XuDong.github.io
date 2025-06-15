@@ -94,7 +94,7 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Xu Dong**, Yilin Luo (2024)
+**Xu Dong**, Yilin Luo (2025)
 [[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 [**CSSCI**] **董旭**，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》，（3），642-650+670。
@@ -106,7 +106,7 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Leveraging the effect of moral foundations on rumor-debunking</div><img src='images/道德.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-**Xu Dong**, Xinlu He (2024)
+**Xu Dong**, Xinlu He (2025)
 [[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 
 [**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
