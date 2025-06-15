@@ -45,7 +45,6 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2024.12*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Journalism and Communication(国际新闻界). (CSSCI)
 - *2024.09*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
-- *2024.05*: &nbsp;🎉🎉 Two papers are accepted by AEJMC. (Top conference)
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
