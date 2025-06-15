@@ -49,10 +49,10 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-`**Xu Dong**`, Jun Xie, He Gong (2025)
+**Xu Dong**, Jun Xie, He Gong (2025)
 [[HTML]](https://doi.org/10.1089/cyber.2024.0468) [[PDF]]()
 
-[**SSCI Q1**] - `**Dong, X.**`, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
+[**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
 </div>
 </div>
 
