@@ -50,7 +50,7 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 <div class='paper-box-text' markdown="1">
 
 **Xu Dong**, Jun Xie, He Gong (2025)
-[HTML](https://doi.org/10.1089/cyber.2024.0468)
+[[HTML]](https://doi.org/10.1089/cyber.2024.0468) [[PDF]](file:///Users/xd/Zotero/storage/CWLKVRTH/%E5%87%BA%E6%B5%B7%E5%90%91%E4%BD%95%E6%96%B9%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E6%B5%B7...%E7%A0%94%E7%A9%B6%EF%BC%881949%E2%80%942024%EF%BC%89_%E5%BC%A0%E8%BE%89%E9%94%8B.pdf)
 
 [**SSCI Q1**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
 </div>
