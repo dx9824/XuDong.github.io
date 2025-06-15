@@ -31,10 +31,10 @@ As the first or corresponding author on 6 CSSCI papers and 3 SSCI articles, I ha
 
 # 📖 Educations
 <span id="educations"></span>
-- *2025.08 - 2026.07*, Department of Communication and New Media, National University of Singapore, Singapore.
-- *2023.09 - now*, School of Journalism and Communication, Renmin University of China, Beijing, China.
-- *2020.09 - 2023.06*, School of Journalism and Communication, Xiamen University, Xiamen, Fujian Province, China.
-- *2016.09 - 2020.06*, School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
+- *2025.08 - 2026.07*, <a href="https://www.nuc.edu.sg/"><img class="png"  src="images/nus logo.png" width="30pt"></a> Department of Communication and New Media, National University of Singapore, Singapore.
+- *2023.09 - now*, <a href="https://www.ruc.edu.cn/"><img class="png" src="images/ruclogo1.png" width="25pt"></a> School of Journalism and Communication, Renmin University of China, Beijing, China.
+- *2020.09 - 2023.06*, <a href="https://www.xmu.edu.cn/"><img class="jpg" src="images/xmu_logo.jpg" width="25pt"></a> School of Journalism and Communication, Xiamen University, Xiamen, Fujian Province, China.
+- *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI)
