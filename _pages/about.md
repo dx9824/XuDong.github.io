@@ -88,7 +88,7 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 [[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003)
 
 [**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4），3-17。
-- **Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4).
+- **Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4)，3-17.
 </div>
 </div>
 
@@ -100,7 +100,7 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 [[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 [**CSSCI**] **董旭**，罗逸琳（2025）。城乡差异与媒体使用对科研机构信任的影响研究。《科学学研究》，（3），642-650+670。
--	**Dong, X.**, Luo, Y. (2025). Research on the impact of urban-rural gap and media use on trust in scientific research institutions. *Studies in Science of Science*.
+-	**Dong, X.**, Luo, Y. (2025). Research on the impact of urban-rural gap and media use on trust in scientific research institutions. *Studies in Science of Science*，（3），642-650+670.
 </div>
 </div>
 
@@ -112,7 +112,7 @@ Miaohong Huang, **Xu Dong** , He Gong(2025)
 [[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005)
 
 [**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
--	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*.
+-	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*，（3），82-100.
 </div>
 </div>
 
@@ -124,7 +124,7 @@ He Gong, **Xu Dong*** (2024)
 [[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009)
 
 [**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10），59-73。
--	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*.
+-	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*，（10），59-73.
 
 </div>
 </div>
@@ -137,7 +137,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 [[HTML]](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007)
 
 [**CSSCI**] 宫贺，马丹凤，**董旭**（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11），114-136。
--	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*.
+-	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*，（11），114-136.
 </div>
 </div>
 
@@ -149,8 +149,8 @@ Huifeng Zhang, **Xu Dong** (2025)
 [[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
 
 
-[**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3）。
--	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*.
+[**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3），91-104。
+-	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*，（3），91-104.
 </div>
 </div>
 
