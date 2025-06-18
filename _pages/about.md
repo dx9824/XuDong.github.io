@@ -72,7 +72,7 @@ Mingfei Sun, **Xu Dong*** (2024)
 <div class='paper-box-text' markdown="1">
 
 Miaohong Huang, **Xu Dong** , He Gong(2025)
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008)
+[[HTML]](https://doi.org/10.1093/ijpor/edaf028)
 
 [**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*.
 
