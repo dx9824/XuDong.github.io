@@ -186,6 +186,13 @@ Huifeng Zhang, **Xu Dong** (2025)
 - *2020.06* Outstanding graduates, Shandong Univerisity.
 - *2018.10* Merit student, Shandong Univerisity.
 
+# 📚 Service to Discipline
+### Ad-hoc Journal Reviewer
+Information Processing & Management, Online Information Review
 
+### Ad-hoc Conference Reviewer
+The Annual International Communication Association (ICA) Conference, Association for Education in Journalism and Mass Communication(AEJMC)
 
+### Editorial Board
+Chinese Journal of Journalism and Communication (CSSCI)
 
