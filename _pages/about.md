@@ -53,7 +53,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 **Xu Dong**, Jun Xie, He Gong (2025)
 [[HTML]](https://doi.org/10.1089/cyber.2024.0468) (JCR:Q1; IF:3.9)
 
-[**SSCI**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking* https://doi.org/10.1089/cyber.2024.0468.
+[**SSCI**] - **Dong, X.**, Xie, J., Gong, H. (2025).A meta-analysis of Artificial Intelligence technologies use and loneliness: Examining the influence of physical embodiment, age differences, and effect direction. *Cyberpsychology, Behavior, and Social Networking*, 28(4),233-242. https://doi.org/10.1089/cyber.2024.0468.
 </div>
 </div>
 
