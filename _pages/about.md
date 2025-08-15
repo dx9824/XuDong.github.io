@@ -43,7 +43,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI Q2) 
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI Q1)
-- *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI Q1)
+- *2024.11*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI Q1)
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trading time for discretion</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
