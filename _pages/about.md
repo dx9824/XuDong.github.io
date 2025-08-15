@@ -39,14 +39,36 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI)
+- *2025.08*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Communication. (SSCI Q2)
+- *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI Q2) 
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
-- *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI)
-- *2024.12*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Journalism and Communication(国际新闻界). (CSSCI)
-- *2024.09*: &nbsp;🎉🎉 A paper is accepted by Journalism Research（新闻大学）. (CSSCI)
-- *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI)
+- *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI Q1)
+- *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI Q1)
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trading time for discretion</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+He Gong, **Xu Dong***, Yuqi Lv,  (2025)
+[[HTML]](https://doi.org/10.1089/cyber.2024.0468) (JCR:Q2; IF1.9)
+
+[**SSCI**] - Gong, H., **Dong, X.***, Xie, J. (2025).Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Miaohong Huang, **Xu Dong** , He Gong(2025)
+[[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) (JCR:Q2; IF:1.3)
+
+[**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI Use and Loneliness</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -65,17 +87,6 @@ Mingfei Sun, **Xu Dong*** (2024)
 [[HTML]](https://doi.org/10.1108/OIR-09-2023-0505) (JCR:Q1; IF:3.5)
   
 [**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Silence across the Ocean</div><img src='images/Figure 2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Miaohong Huang, **Xu Dong** , He Gong(2025)
-[[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) (JCR:Q2; IF:1.3)
-
-[**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
-
 </div>
 </div>
 
