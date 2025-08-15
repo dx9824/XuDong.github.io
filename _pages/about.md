@@ -46,7 +46,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2024.05*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI Q1)
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trading time for discretion</div><img src='images/loneliness.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trading time for discretion</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 He Gong, **Xu Dong***, Yuqi Lv,  (2025)
