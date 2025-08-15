@@ -122,7 +122,7 @@ Huifeng Zhang, **Xu Dong** (2025)
 
 
 [**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3），91-104。
--	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*，（3），91-104.
+-	Zhang, H., **Dong, X.** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*，（3），91-104.
 </div>
 </div>
 
