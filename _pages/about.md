@@ -91,18 +91,6 @@ Mingfei Sun, **Xu Dong*** (2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Dialogue capability” at the grassroot</div><img src='images/1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Xu Dong**, He Gong (2024)
-[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003) (IF:4.8)
-
-[**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4），3-17。
-- **Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4)，3-17.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -123,6 +111,30 @@ Mingfei Sun, **Xu Dong*** (2024)
 
 [**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
 -	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*，（3），82-100.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effect of Multiple Distance Factors on the Overseas Box Office</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Huifeng Zhang, **Xu Dong** (2025)
+[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008) (IF:4.0)
+
+
+[**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3），91-104。
+-	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*，（3），91-104.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Dialogue capability” at the grassroot</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xu Dong**, He Gong (2024)
+[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2024.04.003) (IF:4.8)
+
+[**CSSCI**] **董旭**，宫贺（2024）。建设地方的“可对话性”：基于自然灾害中多元主体议程属性网络的关系探究。《新闻记者》，（4），3-17。
+- **Dong, X.**, Gong, H. (2024). Constructing “dialogue capability” at the local level: Research on relationship of diverse subject agenda attribute networks in natural disasters. *Shanghai Journalism Review*, (4)，3-17.
 </div>
 </div>
 
@@ -152,26 +164,12 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Effect of Multiple Distance Factors on the Overseas Box Office</div><img src='images/combined_plot_mnm.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Huifeng Zhang, **Xu Dong** (2025)
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008) (IF:4.0)
-
-
-[**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3），91-104。
--	Zhang, H., **Dong, X.*** (2025). Where to Sail? A Study on Factors Influencing the Overseas Box Office of Chinese Animated Films (1949–2024). *Journalism Research*，（3），91-104.
-</div>
-</div>
-
-
 
 
 
 
 -	**Dong, X.**, Fang, Y., Li, W., Sun，M., He, X.(2025). Engagement for morality? Leveraging the role of moral foundations in government-public disaster communication on Weibo in China, paper presented at the 2025 ICA.
 -	**Dong, X.**, Huang, M.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
--	Gong, H., **Dong, X.**, Huang, M. H. (2024). Silence Across the Ocean？ A Comparative Look at the Effects of the Spiral of Silence in China and the U.S Regarding Fukushima Wastewater Release Discourse, paper presented at the 74th ICA.
 -	**Dong, X.**, Sun, M. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
 -	**Dong, X.**, He, X. (2024). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research, paper presented at the 2024 Annual Conference of Chinese Computational Communication Research Association.**The Best Paper**
 -	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the 2020 Annual Conference of Annual Conference of Chinese Computational Communication Research Association.
@@ -205,5 +203,5 @@ Information Processing & Management, Online Information Review
 The Annual International Communication Association (ICA) Conference, Association for Education in Journalism and Mass Communication(AEJMC)
 
 ### Editorial Board
-Chinese Journal of Journalism and Communication (CSSCI)
+Chinese Journal of Journalism and Communication (CSSCI,2023-)
 
