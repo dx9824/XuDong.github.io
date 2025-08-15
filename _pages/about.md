@@ -52,7 +52,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 He Gong, **Xu Dong***, Yuqi Lv,  (2025)
 [[HTML]]() (JCR:Q2; IF1.9)
 
-[**SSCI**] - Gong, H., **Dong, X.***, Lv, Y. (2025).Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
+[**SSCI**] - Gong, H., **Dong, X**.*, Lv, Y. (2025).Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
 </div>
 </div>
 
@@ -63,7 +63,7 @@ He Gong, **Xu Dong***, Yuqi Lv,  (2025)
 Miaohong Huang, **Xu Dong** , He Gong(2025)
 [[HTML]](https://academic.oup.com/ijpor/article/37/3/edaf028/8170128) (JCR:Q2; IF:1.3)
 
-[**SSCI**] Huang, M., Dong, X., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
+[**SSCI**] Huang, M., **Dong, X**., Gong, H. (2025). Silence Across the Ocean? A Comparative Look at the Effects of the “Spiral of Silence” in China and the U.S. Regarding Fukushima Wastewater Release Discourse. *International Journal of Public Opinion Research*, 37(3).
 
 </div>
 </div>
@@ -145,7 +145,7 @@ Huifeng Zhang, **Xu Dong** (2025)
 He Gong, **Xu Dong*** (2024)
 [[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:4.0)
 
-[**CSSCI**] 宫贺，**董旭**（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10），59-73。
+[**CSSCI**] 宫贺，**董旭***（2024）。自然灾害情境下属地政务微博的话题标签使用与效果。《新闻大学》，（10），59-73。
 -	Gong, H., **Dong, X.*** (2024). Dialogic Engagement between the Government and the Public: The Use and Effects of Hashtags in Local Government Microblogs in Natural Disaster Contexts (2011-2021). *Journalism Research*，（10），59-73.
 
 </div>
@@ -158,7 +158,7 @@ He Gong, **Xu Dong*** (2024)
 He Gong, Danfeng Ma, **Xu Dong** * (2024)
 [[HTML]](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007) (IF:5.5)
 
-[**CSSCI**] 宫贺，马丹凤，**董旭**（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11），114-136。
+[**CSSCI**] 宫贺，马丹凤，**董旭***（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11），114-136。
 -	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*，（11），114-136.
 </div>
 </div>
