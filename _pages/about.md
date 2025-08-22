@@ -50,7 +50,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 <div class='paper-box-text' markdown="1">
 
 He Gong, **Xu Dong***, Yuqi Lv,  (2025)
-[[HTML]]() (JCR:Q2; IF1.9)
+[[HTML]](https://doi.org/10.1080/17544750.2025.2552246) (JCR:Q2; IF1.9)
 
 [**SSCI**] - Gong, H., **Dong, X***., Lv, Y. (2025).Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
 </div>
