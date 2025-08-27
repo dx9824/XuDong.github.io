@@ -39,6 +39,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 A paper is published by International Journal of Human-Computer Interaction. (SSCI Q1)
 - *2025.08*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Communication. (SSCI Q2)
 - *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI Q2) 
 - *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
@@ -63,7 +64,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 He Gong, **Xu Dong***, Yuqi Lv,  (2025)
 [[HTML]](https://doi.org/10.1080/17544750.2025.2552246) (JCR:Q2; IF1.9)
 
-[**SSCI**] - Gong, H., **Dong, X***., Lv, Y. (2025).Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China. *Chinese Journal of Communication*.
+[**SSCI**] - Gong, H., **Dong, X***., Lv, Y. (2025).Trading time for discretion: The response dynamics of grassroots officials on digital administrative platforms in China.  *Chinese Journal of Communication*.
 </div>
 </div>
 
