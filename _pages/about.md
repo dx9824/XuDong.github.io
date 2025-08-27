@@ -46,6 +46,17 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2024.11*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI Q1)
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI actors</div><img src='images/frame.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xu Dong**, Huifeng Zhang,  (2025)
+[[HTML]](https://doi.org/10.1080/17544750.2025.2552246) (JCR:Q1; IF4.9)
+
+[**SSCI**] - **Dong, X.**, Zhang, H.(2025).Can AI Replace Actors? Research on the Label Effect of Movie Actors on Audience Watching Intentions and Transportation. *International Journal of Human-Computer Interaction*.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trading time for discretion</div><img src='images/CJC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
