@@ -27,7 +27,7 @@ My research interests include
 - Human-machine Interaction
 - Computational Communication
 
-As the first or corresponding author on 6 CSSCI papers and 4 SSCI articles, I have published my works. Details are provided below.
+As the first or corresponding author on 6 CSSCI papers and 5 SSCI articles, I have published my works. Details are provided below.
 
 In my spare time, I read, take photograph, work out and watch movies.
 
