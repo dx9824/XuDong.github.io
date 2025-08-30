@@ -51,7 +51,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 <div class='paper-box-text' markdown="1">
 
 **Xu Dong**, Huifeng Zhang,  (2025)
-[[HTML]](https://doi.org/10.1080/17544750.2025.2552246) (JCR:Q1; IF4.9)
+[[HTML]](https://doi.org/10.1080/10447318.2025.2555705) (JCR:Q1; IF4.9)
 
 [**SSCI**] - **Dong, X.**, Zhang, H.(2025).Can AI Replace Actors? Research on the Label Effect of Movie Actors on Audience Watching Intentions and Transportation. *International Journal of Human-Computer Interaction*.
 </div>
