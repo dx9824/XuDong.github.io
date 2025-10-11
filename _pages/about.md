@@ -21,11 +21,13 @@ redirect_from:
 # 🧍‍♂️ Biography
 I received a B.A. degree in Journalism from Shandong University, Jinan, China, in 2020 and a  M.A. degree in Journalism and Communication from Xiamen Univerisity, Xiamen, China, in 2023. I am currently working toward an PhD. degree in Communication at the School of Journalism and Communication, Renmin University of China, Beijing, China. 
 
+My research focuses on technology-mediated communication and digital governance, particularly how AI, digital media, and social platforms shape public perception, trust, and organizational responses in risk and crisis contexts.
+
 My research interests include
 
-- Public Communication
-- Human-machine Interaction
-- Computational Communication
+- Human–computer interaction
+- Digital governance and crisis communication
+- Media psychology and public trust in risk contexts
 
 As the first or corresponding author on 6 CSSCI papers and 5 SSCI articles, I have published my works. Details are provided below.
 
