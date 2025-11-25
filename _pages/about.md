@@ -29,7 +29,7 @@ My research interests include
 - Digital governance and crisis communication
 - Media psychology and public trust in risk contexts
 
-As the first or corresponding author on 6 CSSCI papers and 5 SSCI articles, I have published my works. Details are provided below.
+As the first or corresponding author on 7 CSSCI papers and 5 SSCI articles, I have published my works. Details are provided below.
 
 In my spare time, I read, take photograph, work out and watch movies.
 
@@ -141,6 +141,19 @@ Huifeng Zhang, **Xu Dong** (2025)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Moral Foundations and Emotional Drives</div><img src='images/传媒观察图.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Mingfei Sun, **Xu Dong*** (2025)
+[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:1.91)
+
+[**CSSCI**] 孙铭菲，**董旭***（2025）。道德基础与情绪驱动：社交媒体用户生成的审核信息传播效果研究。《传媒观察》，（11），97-111。
+-	Sun, M., **Dong, X.*** (2025). Moral Foundations and Emotional Drives: A Study on the Dissemination Effects of User-Generated Moderated Content in Social Media. *Media Observer*，（11），97-111.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Dialogue capability” at the grassroot</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -178,17 +191,6 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 </div>
 
 
-
-
-
-
--	**Dong, X.**, Fang, Y., Li, W., Sun，M., He, X.(2025). Engagement for morality? Leveraging the role of moral foundations in government-public disaster communication on Weibo in China, paper presented at the 2025 ICA.
--	**Dong, X.**, Huang, M.，Gong, H. (2024). “I” Speak Out, “We” Speak Louder? The Moderating Role of Self-Construal in the Impact of Opinion Congruence with SNS Friends and Experts on Expression Intentions, paper presented at the 2024 AEJMC.
--	**Dong, X.**, Sun, M. (2024). Saving other-face, hindering correction pace：the influence of self-construal and face concern on misinformation correction intentions, paper presented at 2024 ICA Preconference.
--	**Dong, X.**, He, X. (2024). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research, paper presented at the 2024 Annual Conference of Chinese Computational Communication Research Association.**The Best Paper**
--	**Dong, X.** (2020). A research on persuasive effect of news feeds Ad in WeChat based on ELM Model, paper presented at the 2020 Annual Conference of Annual Conference of Chinese Computational Communication Research Association.
-
-
 # 💻 Projects and Funding
 - *2025.06 -*, "Project of Sichuan Network Culture Research Center" (PI)
 - *2024.06 -2025.06*, "Project of Social Governance Innovation Research Center of Sichuan Philosophy and Social Sciences Key Research Base" (PI)
@@ -200,6 +202,9 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 # 🎖 Honors and Awards
 <span id="honors"></span>
+- *2025.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
+- *2025.10* Academic Excellence Scholarship (First Class), Renmin University of China.
+- *2025.09* Merit student, Renmin Univerisity of China.
 - *2025.02* Top Student Paper, 2025ICA PR division.
 - *2024.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
 - *2024.10* Academic Excellence Scholarship (First Class), Renmin University of China.
