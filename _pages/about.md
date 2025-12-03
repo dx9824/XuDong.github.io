@@ -145,7 +145,7 @@ Huifeng Zhang, **Xu Dong** (2025)
 <div class='paper-box-text' markdown="1">
 
 Mingfei Sun, **Xu Dong*** (2025)
-[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:1.91)
+[[HTML]](https://doi.org/10.19480/j.cnki.cmgc.2025.11.011) (IF:1.91)
 
 [**CSSCI**] 孙铭菲，**董旭***（2025）。道德基础与情绪驱动：社交媒体用户生成的审核信息传播效果研究。《传媒观察》，（11），97-111。
 -	Sun, M., **Dong, X.*** (2025). Moral Foundations and Emotional Drives: A Study on the Dissemination Effects of User-Generated Moderated Content in Social Media. *Media Observer*，（11），97-111.
