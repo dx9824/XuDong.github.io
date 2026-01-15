@@ -41,10 +41,11 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 I won the top student paper in IS division in 2026ICA. (Award)
 - *2025.08*: &nbsp;🎉🎉 A paper is published by International Journal of Human-Computer Interaction. (SSCI Q1)
 - *2025.08*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Communication. (SSCI Q2)
 - *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI Q2) 
-- *2025.02*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
+- *2025.06*: &nbsp;🎉🎉 I won the top student paper in PR division in 2025ICA. (Award)
 - *2025.02*: &nbsp;🎉🎉 A paper is published by Cyberpsychology, Behavior, and Social Networking. (SSCI Q1)
 - *2024.11*: &nbsp;🎉🎉 A paper is published by Online Information Review. (SSCI Q1)
 
@@ -222,7 +223,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 # 📚 Service to Discipline
 ### Ad-hoc Journal Reviewer
-Information Processing & Management, Online Information Review
+Information Processing & Management, Online Information Review, Humanities and Social Sciences Communications
 
 ### Ad-hoc Conference Reviewer
 The Annual International Communication Association (ICA) Conference, Association for Education in Journalism and Mass Communication(AEJMC)
