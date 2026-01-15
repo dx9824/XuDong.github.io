@@ -204,8 +204,8 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 # 🎖 Honors and Awards
 <span id="honors"></span>
 ### Paper awards
-- *2026.06* Top Student Paper, 2025ICA IS division.
-- *2025.06* Top Student Paper, 2025ICA PR division.
+- *2026.06* Top Student Paper, IS division，76th ICA .
+- *2025.06* Top Student Paper, PR division，75th ICA .
 
 ### Scholarship
 - *2025.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
