@@ -202,14 +202,20 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 # 🎖 Honors and Awards
 <span id="honors"></span>
+### Paper awards
+- *2026.06* Top Student Paper, 2025ICA IS division.
+- *2025.06* Top Student Paper, 2025ICA PR division.
+
+### Scholarship
 - *2025.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
-- *2025.10* Academic Excellence Scholarship (First Class), Renmin University of China.
-- *2025.09* Merit student, Renmin Univerisity of China.
-- *2025.02* Top Student Paper, 2025ICA PR division.
 - *2024.10* National Scholarship, Ministry of Education of People’s Repubilc of China.
+- *2025.10* Academic Excellence Scholarship (First Class), Renmin University of China.
 - *2024.10* Academic Excellence Scholarship (First Class), Renmin University of China.
-- *2023.06* Outstanding graduates, Xiamen Univerisity.
 - *2023.06* Yuanshen Scholarship, Xiamen Univerisity.
+
+### Honors
+- *2025.09* Merit student, Renmin Univerisity of China.
+- *2023.06* Outstanding graduates, Xiamen Univerisity.
 - *2022.09* Merit student, Xiamen Univerisity.
 - *2020.06* Outstanding graduates, Shandong Univerisity.
 - *2018.10* Merit student, Shandong Univerisity.
