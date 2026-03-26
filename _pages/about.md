@@ -110,10 +110,35 @@ Mingfei Sun, **Xu Dong*** (2024)
 <div class='paper-box-text' markdown="1">
 
 **Xu Dong**, Mingfei Sun (2026)
-[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:8.6)
+[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:6.5)
 
 [**CSSCI**] **董旭**，孙铭菲（2026）。用户辟谣何时有效？基于在线实验的信源可信边界条件研究。《新闻与写作》，（3），64-75。
 -	**Dong, X.**, Sun, M. (2026). When Does User-Initiated Rumor Refutation Become Effective? A Study on the Boundary Conditions of Source Credibility Based on Online Experiments. *Journalism and Writing*，（3），64-75.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">“Circuit of Sense”</div><img src='images/感官循环.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Yilin Luo, **Xu Dong*** (2026)
+[[HTML]](https://doi.org/10.15897/j.cnki.cn51-1046/g2.20260316.001) (IF:6.8)
+
+[**CSSCI**] 罗逸琳，**董旭***（2026）。城乡差异与媒体使用对科研机构信任的影响研究。《新闻界》。
+-	Luo, Y.，**Dong, X.***,  (2026). “Circuit of Sense”: Mediatized Practice of Food Tourism and Its Embodied Becoming from  a Non-representational Perspective. *Journalism and Mass Communication*.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Trending on Hot Searches</div><img src='images/用户辟谣.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+He Gong, **Xu Dong***, Geba Qiao (2026)
+[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:6.4)
+
+[**CSSCI**] 宫贺，**董旭***，乔戈芭（2026）。上热搜:主流媒体基于平台算法的调适性新闻生产——对北京冬奥会期间两家竞争媒体的考察。《新闻记者》，（2），20-32。
+-	Gong, H., **Dong, X.**, Qiao, G. (2026). Trending on Hot Searches: Adaptive News Production by Mainstream Media Based on Platform Algorithms
+An Investigation of Two Competing Media Outlets During the Beijing Winter Olympics. *Shanghai Journalism Review*，（2），20-32.
 </div>
 </div>
 
