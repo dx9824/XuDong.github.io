@@ -130,14 +130,14 @@ Yilin Luo, **Xu Dong*** (2026)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Trending on Hot Searches</div><img src='images/用户辟谣.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> Trending on Hot Searches</div><img src='images/热搜.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 He Gong, **Xu Dong***, Geba Qiao (2026)
 [[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:6.4)
 
 [**CSSCI**] 宫贺，**董旭***，乔戈芭（2026）。上热搜:主流媒体基于平台算法的调适性新闻生产——对北京冬奥会期间两家竞争媒体的考察。《新闻记者》，（2），20-32。
--	Gong, H., **Dong, X.**, Qiao, G. (2026). Trending on Hot Searches: Adaptive News Production by Mainstream Media Based on Platform Algorithms
+-	Gong, H., **Dong, X.***, Qiao, G. (2026). Trending on Hot Searches: Adaptive News Production by Mainstream Media Based on Platform Algorithms
 An Investigation of Two Competing Media Outlets During the Beijing Winter Olympics. *Shanghai Journalism Review*，（2），20-32.
 </div>
 </div>
