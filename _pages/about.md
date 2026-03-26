@@ -143,7 +143,7 @@ An Investigation of Two Competing Media Outlets During the Beijing Winter Olympi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On Whom to Rely?</div><img src='images/养老.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On Whom to Rely?</div><img src='images/养老.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 Xinlu He，**Xu Dong***,  (2025)
