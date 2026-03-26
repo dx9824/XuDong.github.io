@@ -253,7 +253,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 # 🎖 Honors and Awards
 <span id="honors"></span>
 ### Paper awards
-- *2026.06* Top Student Paper, IS division，76th ICA .
+- *2026.06* Promising Student Paper, IS division，76th ICA .
 - *2025.06* Top Student Paper, PR division，75th ICA .
 
 ### Scholarship
@@ -272,7 +272,7 @@ He Gong, Danfeng Ma, **Xu Dong** * (2024)
 
 # 📚 Service to Discipline
 ### Ad-hoc Journal Reviewer
-Information Processing & Management, Online Information Review, Humanities and Social Sciences Communications
+Online Information Review, Humanities and Social Sciences Communications, Chinese Journal of Communication
 
 ### Ad-hoc Conference Reviewer
 The Annual International Communication Association (ICA) Conference, Association for Education in Journalism and Mass Communication(AEJMC)
