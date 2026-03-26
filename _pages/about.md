@@ -29,7 +29,7 @@ My research interests include
 - Digital governance and crisis communication
 - Media psychology and public trust in risk contexts
 
-As the first or corresponding author on 7 CSSCI papers and 5 SSCI articles, I have published my works. Details are provided below.
+As the first or corresponding author on 11 CSSCI papers and 5 SSCI articles, I have published my works. Details are provided below.
 
 In my spare time, I read, take photograph, work out and watch movies.
 
@@ -41,7 +41,7 @@ In my spare time, I read, take photograph, work out and watch movies.
 - *2016.09 - 2020.06*, <a href="https://www.sdu.edu.cn/"><img class="jpg" src="images/sdu.jpeg" width="25pt"></a> School of Journalism and Communication, Shandong University, Jinan, Shandong Province, China. 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 I won the top student paper in IS division in 2026ICA. (Award)
+- *2026.01*: &nbsp;🎉🎉 I won the promising student paper in IS division in 2026ICA. (Award)
 - *2025.08*: &nbsp;🎉🎉 A paper is published by International Journal of Human-Computer Interaction. (SSCI Q1)
 - *2025.08*: &nbsp;🎉🎉 A paper is published by Chinese Journal of Communication. (SSCI Q2)
 - *2025.05*: &nbsp;🎉🎉 A paper is published by International Journal of Public Opinion Research. (SSCI Q2) 
@@ -104,6 +104,19 @@ Mingfei Sun, **Xu Dong*** (2024)
 [**SSCI**] -	Sun, M. F., **Dong, X.*** (2024). Factors Influencing Correction of Health Misinformation: The Moderating Role of Active Social Media Use. *Online Information Review*, 48(7), 1313-1330. https://doi.org/10.1108/OIR-09-2023-0505
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> User-Initiated Rumor Refutation</div><img src='images/用户辟谣.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Xu Dong**, Mingfei Sun (2026)
+[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:8.6)
+
+[**CSSCI**] **董旭**，孙铭菲（2026）。用户辟谣何时有效？基于在线实验的信源可信边界条件研究。《新闻与写作》，（3），64-75。
+-	**Dong, X.**, Sun, M. (2026). When Does User-Initiated Rumor Refutation Become Effective? A Study on the Boundary Conditions of Source Credibility Based on Online Experiments. *Journalism and Writing*，（3），64-75.
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
