@@ -233,7 +233,7 @@ He Gong, **Xu Dong*** (2024)
 <div class='paper-box-text' markdown="1">
 
 He Gong, Danfeng Ma, **Xu Dong** * (2024)
-[[HTML]](https://link.cnki.net/doi/10.13495/j.cnki.cjjc.2024.11.007) (IF:5.5)
+[[HTML]](https://link.cnki.net/doi.org/10.13495/j.cnki.cjjc.2024.11.007) (IF:5.5)
 
 [**CSSCI**] 宫贺，马丹凤，**董旭***（2024）。家丑不可外扬？情境崩塌之下组织“事实-价值”诉求的影响边界。《国际新闻界》，（11），114-136。
 -	Gong, H., Ma, D., **Dong, X**.* (2024). “Domestic Shame Should Not Be Publicized”? The Influence Boundaries of “Fact-Value” Appeals Under the Context Collapse. *Chinese Journal of Journalism and Communication*，（11），114-136.
