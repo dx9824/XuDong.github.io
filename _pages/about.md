@@ -124,8 +124,8 @@ Mingfei Sun, **Xu Dong*** (2024)
 Yilin Luo, **Xu Dong*** (2026)
 [[HTML]](https://doi.org/10.15897/j.cnki.cn51-1046/g2.20260316.001) (IF:6.8)
 
-[**CSSCI**] 罗逸琳，**董旭***（2026）。城乡差异与媒体使用对科研机构信任的影响研究。《新闻界》。
--	Luo, Y.，**Dong, X.***,  (2026). “Circuit of Sense”: Mediatized Practice of Food Tourism and Its Embodied Becoming from  a Non-representational Perspective. *Journalism and Mass Communication*.
+[**CSSCI**] 罗逸琳，**董旭***（2026）。“感官循环”:非表征视角下美食旅游的  媒介化实践及其具身生成。《新闻界》。
+-	Luo, Y.，**Dong, X.***,  (2026). “Circuit of Sense”: Mediatized Practice of Food Tourism and Its Embodied Becoming from  a Non-representational Perspective.  *Journalism and Mass Communication*.
 </div>
 </div>
 
@@ -134,7 +134,7 @@ Yilin Luo, **Xu Dong*** (2026)
 <div class='paper-box-text' markdown="1">
 
 He Gong, **Xu Dong***, Geba Qiao (2026)
-[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2024.10.009) (IF:6.4)
+[[HTML]](https://doi.org/10.16057/j.cnki.31-1171/g2.2026.02.005) (IF:6.4)
 
 [**CSSCI**] 宫贺，**董旭***，乔戈芭（2026）。上热搜:主流媒体基于平台算法的调适性新闻生产——对北京冬奥会期间两家竞争媒体的考察。《新闻记者》，（2），20-32。
 -	Gong, H., **Dong, X.***, Qiao, G. (2026). Trending on Hot Searches: Adaptive News Production by Mainstream Media Based on Platform Algorithms
@@ -142,6 +142,17 @@ An Investigation of Two Competing Media Outlets During the Beijing Winter Olympi
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">On Whom to Rely?</div><img src='images/养老.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Xinlu He，**Xu Dong***,  (2025)
+[[HTML]](https://link.cnki.net/urlid/32.1851.C.20251203.1322.002) (IF:2.3)
+
+[**CSSCI**] 何欣璐，**董旭***，（2025）。以谁为依?社交关系对老年群体养老责任观的影响研究。《人口与社会》。
+-	He, X., **Dong, X.***(2025).On Whom to Rely? The Impact of Social  Relationships on Elderly Individuals’ Perceptions of  Filial Responsibility. *Population and Society*.
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trust in Scientific Research Institutions</div><img src='images/3.png' alt="sym" width="100%"></div></div>
