@@ -171,7 +171,7 @@ Xinlu He，**Xu Dong***,  (2025)
 <div class='paper-box-text' markdown="1">
   
 **Xu Dong**, Xinlu He (2025)
-[[HTML]](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2025.03.005) (IF:4.8)
+[[HTML]](https://link.cnki.net/doi.org/10.16057/j.cnki.31-1171/g2.2025.03.005) (IF:4.8)
 
 [**CSSCI**] **董旭**，何欣璐（2025）。晓之以德？道德基础对社交媒体辟谣传播效果的影响研究。《新闻记者》，（3），82-100。
 -	**Dong, X.**, He, X. (2025). Leveraging the effect of moral foundations on rumor-debunking on social media: A computational research. *Shanghai Journalism Review*，（3），82-100.
