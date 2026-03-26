@@ -182,7 +182,7 @@ Xinlu He，**Xu Dong***,  (2025)
 <div class='paper-box-text' markdown="1">
 
 Huifeng Zhang, **Xu Dong** (2025)
-[[HTML]](https://link.cnki.net/doi/10.20050/j.cnki.xwdx.2025.03.008) (IF:4.0)
+[[HTML]](https://doi.org/10.20050/j.cnki.xwdx.2025.03.008) (IF:4.0)
 
 
 [**CSSCI**] 张辉锋，**董旭**（2025）。出海向何方：中国动画电影海外票房的影响因素研究（1949-2024）。《新闻大学》，（3），91-104。
